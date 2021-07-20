@@ -2,6 +2,10 @@
     background-color: #fceae8;
 }
 
+.slider-inner {
+    margin-top: 6rem;
+}
+
 .catagorise img {
     width: 100px;
 }
